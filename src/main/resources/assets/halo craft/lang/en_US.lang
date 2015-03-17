@@ -1,0 +1,111 @@
+tile.Titanium Ore.name=Titanium Ore
+tile.Titanium Block.name=Titanium Block
+tile.Aluminum Ore.name=Aluminum Ore
+tile.Aluminum Block.name=Aluminum Block
+tile.Vanadium Ore.name=Vanadium Ore
+tile.Vanadium Block.name=Vanadium Block
+tile.Moissanite Ore.name=Moissanite Ore
+tile.Moissanite Block.name=Moissanite Block
+tile.Ti6Al4V Block.name=Ti6Al4V Block
+tile.Lithium Ore.name=Lithium Ore
+tile.Lithium Block.name=Lithium Block
+tile.Niobium Ore.name=Niobium Ore
+tile.Niobium Block.name=Niobium Block
+tile.Lithium Niobocene Block.name=Lithium Niobocene Block
+tile.Reinforced Glass.name=Reinforced Glass
+
+tile.AlloySmelterIdle.name=Alloy Smelter
+tile.AlloySmelterActive.name=Alloy Smelter
+tile.GelRefinerIdle.name=Polymerizer
+tile.GelRefinerActive.name=Polymerizer
+
+item.Titanium Ingot.name=Titanium Ingot
+item.Ti Ingot.name=Ti6Al4V Ingot
+item.Aluminum Ingot.name=Aluminum Ingot
+item.Vanadium Ingot.name=Vanadium Ingot
+item.Lithium Ingot.name=Lithium Ingot
+item.Niobium Ingot.name=Niobium Ingot
+item.Lithium Niobocene Ingot.name=Lithium Niobocene Ingot
+item.Moissanite.name=Moissanite
+item.Iron Nugget.name=Iron Nugget
+item.Titanium Nugget.name=Titanium Nugget
+item.Aluminum Nugget.name=Aluminum Nugget
+item.Vanadium Nugget.name=Vanadium Nugget
+item.Grade 5.name=Ti6Al4V Alloy Mixture
+item.Hydrostatic Gel.name=Hydrostatic Gel
+item.Magma Cream Bucket.name=Magma Cream Bucket
+item.Lithium Niobocene Bucket.name=Lithium Niobocene Bucket
+item.Visor.name=Visor
+item.Fabric.name=Nanocomposite Fabric
+
+item.Titanium Pickaxe.name=Titanium Pickaxe
+item.Titanium Axe.name=Titanium Axe
+item.Titanium Hoe.name=Titanium Hoe
+item.Titanium Shovel.name=Titanium Shovel
+item.Titanium Sword.name=Titanium Sword
+
+item.Ti Pickaxe.name=Ti6Al4V Pickaxe
+item.Ti Axe.name=Ti6Al4V Axe
+item.Ti Hoe.name=Ti6Al4V Hoe
+item.Ti Shovel.name=Ti6Al4V Shovel
+item.Ti Sword.name=Ti6Al4V Sword
+
+item.Aluminum Pickaxe.name=Aluminum Pickaxe
+item.Aluminum Axe.name=Aluminum Axe
+item.Aluminum Hoe.name=Aluminum Hoe
+item.Aluminum Shovel.name=Aluminum Shovel
+item.Aluminum Sword.name=Aluminum Sword
+
+item.Vanadium Pickaxe.name=Vanadium Pickaxe
+item.Vanadium Axe.name=Vanadium Axe
+item.Vanadium Hoe.name=Vanadium Hoe
+item.Vanadium Shovel.name=Vanadium Shovel
+item.Vanadium Sword.name=Vanadium Sword
+
+item.Moissanite Pickaxe.name=Moissanite Pickaxe
+item.Moissanite Axe.name=Moissanite Axe
+item.Moissanite Hoe.name=Moissanite Hoe
+item.Moissanite Shovel.name=Moissanite Shovel
+item.Moissanite Sword.name=Moissanite Sword
+
+item.Titanium Helmet.name=Titanium Helmet
+item.Titanium Chestplate.name=Titanium Chestplate
+item.Titanium Leggings.name=Titanium Leggings
+item.Titanium Boots.name=Titanium Boots
+
+item.Ti6Al4V Helmet.name=Ti6Al4V Helmet
+item.Ti6Al4V Chest.name=Ti6Al4V Chestplate
+item.Ti6Al4V Legs.name=Ti6Al4V Leggings
+item.Ti6Al4V Boots.name=Ti6Al4V Boots
+
+item.Aluminum Helmet.name=Aluminum Helmet
+item.Aluminum Chestplate.name=Aluminum Chestplate
+item.Aluminum Leggings.name=Aluminum Leggings
+item.Aluminum Boots.name=Aluminum Boots
+
+item.Vanadium Helmet.name=Vanadium Helmet
+item.Vanadium Chestplate.name=Vanadium Chestplate
+item.Vanadium Leggings.name=Vanadium Leggings
+item.Vanadium Boots.name=Vanadium Boots
+
+item.Moissanite Helmet.name=Moissanite Helmet
+item.Moissanite Chestplate.name=Moissanite Chestplate
+item.Moissanite Leggings.name=Moissanite Leggings
+item.Moissanite Boots.name=Moissanite Boots
+
+item.Body Armor Chestplate.name= Body Armor Chestplate
+item.Body Armor Legs.name=Body Armor Leggings
+item.Body Armor Boots.name=Body Armor Boots
+
+item.MarkV Helmet.name=Mjolnir Mark V Helmet
+item.MarkV Chest.name=Mjolnir Mark V Chestplate
+item.MarkV Leggings.name=Mjolnir Mark V Leggings
+item.MarkV Boots.name=Mjolnir Mark V Boots
+
+itemGroup.tabBlocks=HaloCraft Blocks
+itemGroup.tabMech=HaloCraft Machines
+itemGroup.tabItems=HaloCraft Items
+itemGroup.tabTools=HaloCraft Tools
+itemGroup.tabArmor=HaloCraft Armor
+itemGroup.tabCombat=HaloCraft Weapons
+itemGroup.tabMisc=HaloCraft Misc
